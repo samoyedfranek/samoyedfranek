@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samoyedgaming&label=Profile%20views&color=0e75b6&style=flat" alt="samoyedgaming" /></p>
 <h3 align="center">
   
-  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/622714126841675778?animated=true)](https://discord.com/users/622714126841675778)
+  [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/622714126841675778?animated=true&idleMessage=Skoro nic nie robie to znaczy że się nudze...)](https://discord.com/users/622714126841675778)
 
 
 
