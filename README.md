@@ -10,6 +10,8 @@
 
 ### 🛠 &nbsp;To co umiem obsługiwać czy coś :UwU:
 
+![Next.js](https://img.shields.io/badge/-Next.js-1A1C1D?style=flat-square&logo=next.js)&nbsp;
+![React](https://img.shields.io/badge/-React-1A1C1D?style=flat-square&logo=react)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1A1C1D?style=flat-square&logo=javascript)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML-1A1C1D?style=flat-square&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-1A1C1D?style=flat-square&logo=css3)&nbsp;
