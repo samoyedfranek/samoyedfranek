@@ -1,7 +1,7 @@
 
 <h1 align="center">SamoyedFranek</h1>
 <h3 align="center">Polak z polski</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=samoyedgaming&label=Profile%20views&color=0e75b6&style=flat" alt="samoyedgaming" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=samoyedgaming&label=Wy%C5%9Bwietlenia&color=1A1C1D&style=flat-square" alt="samoyedgaming" /></p>
 <h3 align="center">
   
   [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/622714126841675778?animated=true&idleMessage=Skoro%20nic%20nie%20robie%20to%20znaczy%20%C5%BCe%20si%C4%99%20nudze...)](https://discord.com/users/622714126841675778)
